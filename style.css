@@ -74,6 +74,8 @@ header {
                 &:last-child:hover {
 
                     background-color: rgb(255, 255, 255, 0.4);
+                    transform: scale(1.2);
+                    transition-duration: 2s;
 
 
                     a {
